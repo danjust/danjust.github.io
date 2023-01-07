@@ -31,4 +31,4 @@ German Center for Neurodegenerative Diseases and University of Bonn, 2018. Thesi
 Technical University of Berlin, 2012. Thesis: “Stochastic modelling of neuronal membrane potential”
 
 * *B.Sc., Mathematics with minor subject physics* <br>
-University of Bielefeld. Thesis: “Die Gruppenstruktur auf elliptischen Kurven und der Satz von Mordell-Weil” (“The group structure on elliptic curves and the Mordell-Weil theorem”)
+University of Bielefeld, 2008. Thesis: “Die Gruppenstruktur auf elliptischen Kurven und der Satz von Mordell-Weil” (“The group structure on elliptic curves and the Mordell-Weil theorem”)
