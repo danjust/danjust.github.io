@@ -18,7 +18,7 @@ Work experience
 * 02/2012 - 11/2017: Research Assistant, German Centre for Neurodegenerative Diseases, Bonn
   * Research on the role of the brain area *Medial Septum* for spatial navigation
   * Implementation of computational models and data analysis tools to investigate and understand neuronal activity during behaviour
-* 10/2008 - 03/2009: Actuarial Intern, AXA insurancem, Cologne
+* 10/2008 - 03/2009: Actuarial Intern, AXA insurance, Cologne
 * 10/2007 - 09/2008: Teaching Assistant University of Bielefeld, Bielefeld
 
 Education
