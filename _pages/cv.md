@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,9 +23,8 @@ Work experience
 
 Education
 ======
-* *Dr. rer. nat.*, Summa Cum Laude <br> 
+* *Dr. rer. nat.* (Summa Cum Laude) <br> 
 German Center for Neurodegenerative Diseases and University of Bonn, 2018. Thesis: “Neuronal circuits for a running speed signal in the hippocampus and entorhinal cortex”
-
 
 * *M.Sc., Mathematics* <br>
 Technical University of Berlin, 2012. Thesis: “Stochastic modelling of neuronal membrane potential”
