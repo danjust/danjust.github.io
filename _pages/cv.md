@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "CV"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,7 @@ redirect_from:
   - /cv
 ---
 
-Work experience
-======
+## Work experience
 
 * Since 07/2019: Research Scientist, Graphcore, London
   * Research on efficient architectures for Transformer-based models, Graph Neural Networks, and Knowledge Graphs
@@ -23,8 +22,7 @@ Work experience
 * 10/2008 - 03/2009: Actuarial Intern, AXA insurance, Cologne
 * 10/2007 - 09/2008: Teaching Assistant University of Bielefeld, Bielefeld
 
-Education
-======
+## Education
 
 * *Dr. rer. nat.* (Summa Cum Laude)  
 German Center for Neurodegenerative Diseases and University of Bonn, 2018. Thesis: “Neuronal circuits for a running speed signal in the hippocampus and entorhinal cortex”
