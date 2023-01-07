@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Cattaneo, A.\*, Justus, D.\*, Mellor, H.\*, Orr, D.\*, Maloberti, J., Liu, Z.,  Farnsworth, T., Fitzgibbon, A., Banaszewski, B. and Luschi, C., 2022. BESS: Balanced Entity Sampling and Sharing for Large-Scale Knowledge Graph Completion.](https://arxiv.org/abs/2211.12281) NeurIPS 2022 Competition Track. 1st place at the knowledge graph completion track of the Open Graph Benchmark Large-Scale Challenge.
+Cattaneo, A.\*, Justus, D.\*, Mellor, H.\*, Orr, D.\*, Maloberti, J., Liu, Z.,  Farnsworth, T., Fitzgibbon, A., Banaszewski, B. and Luschi, C., 2022. [BESS: Balanced Entity Sampling and Sharing for Large-Scale Knowledge Graph Completion.](https://arxiv.org/abs/2211.12281) NeurIPS 2022 Competition Track. 1st place at the knowledge graph completion track of the Open Graph Benchmark Large-Scale Challenge.
 
 Noune, B., Jones, P., \textbf{Justus, D.}, Masters, D. and Luschi, C., 2022. [8-bit Numerical Formats for Deep Neural Networks.](https://arxiv.org/abs/2206.02915) arXiv preprint arXiv:2206.02915.
 
